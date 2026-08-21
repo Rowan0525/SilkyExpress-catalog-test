@@ -4,5 +4,11 @@
     "name": "product1",
     "category": "Electronics",
     "image": "catalog/item-1787331519342-3bsmzydsk.jpg"
+  },
+  {
+    "id": "item-1787333160240-764jlqhl4",
+    "name": "product2",
+    "category": "Paper",
+    "image": "catalog/item-1787333160240-764jlqhl4.png"
   }
 ]
